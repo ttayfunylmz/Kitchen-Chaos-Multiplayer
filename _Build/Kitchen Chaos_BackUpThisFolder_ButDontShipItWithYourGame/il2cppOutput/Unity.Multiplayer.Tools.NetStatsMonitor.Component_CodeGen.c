@@ -1,0 +1,143 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m0F9FA9B7F2C739C4238A065343573103D7117EED (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m32B87C72DF4175B3CCDCB98EAFE4001B1EE588EB (void);
+extern void MetricTrend_get_Metric_m45F481AA907EC85123C41343E3C063794E200339 (void);
+extern void MetricTrend_set_Metric_m0693D9BC3B4D51C643FCD39725A67E44E90F787A (void);
+extern void MetricTrend_get_Trend_m62D11EB4308320C533979EDD8FA5D9D46BC61A0F (void);
+extern void MetricTrend_set_Trend_mC234B03591548DF41B45320AF801166BDBD61BE4 (void);
+extern void MetricTrend__ctor_mF03FD30C5767299E4914EA6115C54C3630018DB6 (void);
+extern void CustomTestDataGenerator_get_MetricTrends_mA238F2A7B74FA7F4F1FA946A3AEC2C8EEB5F65D5 (void);
+extern void CustomTestDataGenerator_set_MetricTrends_m014222D7CEA4678660CF647980EEBFD225CCC3B4 (void);
+extern void CustomTestDataGenerator_Start_mDC66AD0EDC334D3FC08E62552EAA9CD6E4DCA0B3 (void);
+extern void CustomTestDataGenerator_Update_m1896379E698AF82D6FD1E26C208F0A0A78D57294 (void);
+extern void CustomTestDataGenerator__ctor_m8DDCBDC3482C6768F5BE9A5797F34BD9B8AE2465 (void);
+extern void RuntimeNetStatsMonitor_get_Visible_m486C45CB44C9463FC358AD1C0136DE145B664834 (void);
+extern void RuntimeNetStatsMonitor_set_Visible_m4721BDEE76CFC69C47DDDC76F4D615FAAA724D44 (void);
+extern void RuntimeNetStatsMonitor_get_MaxRefreshRate_m8B5625481366DF5409225F645B24CF117FB13123 (void);
+extern void RuntimeNetStatsMonitor_set_MaxRefreshRate_m07E929BA579BCFA2C605B98C612261B9E20D8770 (void);
+extern void RuntimeNetStatsMonitor_get_CustomStyleSheet_m5CE79EB2D97DA3580624000C8138691630A6BE5B (void);
+extern void RuntimeNetStatsMonitor_set_CustomStyleSheet_m444D4CB4D0B54DB6C8104E66C31FBAAB31C1F896 (void);
+extern void RuntimeNetStatsMonitor_get_PanelSettingsOverride_m66865039E6BC55D02FC758CB2BEAE6C5D1C73B3B (void);
+extern void RuntimeNetStatsMonitor_set_PanelSettingsOverride_m51348E11D696434DF0B653ECC08472F14A58781D (void);
+extern void RuntimeNetStatsMonitor_get_Position_mBA2B7AA9201DFB70B5EDDE2BAD01676463DDB1AD (void);
+extern void RuntimeNetStatsMonitor_set_Position_mF165B23CC7448D1CD10F1E442671FB8EB3D4B98C (void);
+extern void RuntimeNetStatsMonitor_get_Configuration_mA35B924D9994DC86AE03D33B3A1D637C9CE8F126 (void);
+extern void RuntimeNetStatsMonitor_set_Configuration_m1A8E62BB2875481BA0AAE04CE75D374DDE40AE6A (void);
+extern void RuntimeNetStatsMonitor_Start_mCD2F9E04F02D40361DEAE02A46842F396ABD0904 (void);
+extern void RuntimeNetStatsMonitor_OnEnable_mEFAE00ABE139F59D353EDC9F239C381ECE4E3B6F (void);
+extern void RuntimeNetStatsMonitor_OnDisable_m2F010A726B59FE6A62D50A3108DE5AF19A50ACCB (void);
+extern void RuntimeNetStatsMonitor_OnDestroy_m2E794E860920F506CC195346B2845FFC1FB990E8 (void);
+extern void RuntimeNetStatsMonitor_OnValidate_mB72591A10D99CA6A2EC2A50681CA3520070EBD6D (void);
+extern void RuntimeNetStatsMonitor_Setup_m2DC933A1D8A657241D4D95AD367646AC964A98A7 (void);
+extern void RuntimeNetStatsMonitor_Teardown_m3BA42AC44AC07F8F47CCCE054B9FBB52D7986D32 (void);
+extern void RuntimeNetStatsMonitor_ApplyConfiguration_mB665A25943E6D3CA00FECA05FBB86CAA1344CEAC (void);
+extern void RuntimeNetStatsMonitor_AddCustomValue_mD6167CF3380279B5B27A2763FB712FF010460C46 (void);
+extern void RuntimeNetStatsMonitor__ctor_m5CCB17D1C3460F3D78AF57097B731A6DEC2E3E26 (void);
+static Il2CppMethodPointer s_methodPointers[34] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m0F9FA9B7F2C739C4238A065343573103D7117EED,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m32B87C72DF4175B3CCDCB98EAFE4001B1EE588EB,
+	MetricTrend_get_Metric_m45F481AA907EC85123C41343E3C063794E200339,
+	MetricTrend_set_Metric_m0693D9BC3B4D51C643FCD39725A67E44E90F787A,
+	MetricTrend_get_Trend_m62D11EB4308320C533979EDD8FA5D9D46BC61A0F,
+	MetricTrend_set_Trend_mC234B03591548DF41B45320AF801166BDBD61BE4,
+	MetricTrend__ctor_mF03FD30C5767299E4914EA6115C54C3630018DB6,
+	CustomTestDataGenerator_get_MetricTrends_mA238F2A7B74FA7F4F1FA946A3AEC2C8EEB5F65D5,
+	CustomTestDataGenerator_set_MetricTrends_m014222D7CEA4678660CF647980EEBFD225CCC3B4,
+	CustomTestDataGenerator_Start_mDC66AD0EDC334D3FC08E62552EAA9CD6E4DCA0B3,
+	CustomTestDataGenerator_Update_m1896379E698AF82D6FD1E26C208F0A0A78D57294,
+	CustomTestDataGenerator__ctor_m8DDCBDC3482C6768F5BE9A5797F34BD9B8AE2465,
+	RuntimeNetStatsMonitor_get_Visible_m486C45CB44C9463FC358AD1C0136DE145B664834,
+	RuntimeNetStatsMonitor_set_Visible_m4721BDEE76CFC69C47DDDC76F4D615FAAA724D44,
+	RuntimeNetStatsMonitor_get_MaxRefreshRate_m8B5625481366DF5409225F645B24CF117FB13123,
+	RuntimeNetStatsMonitor_set_MaxRefreshRate_m07E929BA579BCFA2C605B98C612261B9E20D8770,
+	RuntimeNetStatsMonitor_get_CustomStyleSheet_m5CE79EB2D97DA3580624000C8138691630A6BE5B,
+	RuntimeNetStatsMonitor_set_CustomStyleSheet_m444D4CB4D0B54DB6C8104E66C31FBAAB31C1F896,
+	RuntimeNetStatsMonitor_get_PanelSettingsOverride_m66865039E6BC55D02FC758CB2BEAE6C5D1C73B3B,
+	RuntimeNetStatsMonitor_set_PanelSettingsOverride_m51348E11D696434DF0B653ECC08472F14A58781D,
+	RuntimeNetStatsMonitor_get_Position_mBA2B7AA9201DFB70B5EDDE2BAD01676463DDB1AD,
+	RuntimeNetStatsMonitor_set_Position_mF165B23CC7448D1CD10F1E442671FB8EB3D4B98C,
+	RuntimeNetStatsMonitor_get_Configuration_mA35B924D9994DC86AE03D33B3A1D637C9CE8F126,
+	RuntimeNetStatsMonitor_set_Configuration_m1A8E62BB2875481BA0AAE04CE75D374DDE40AE6A,
+	RuntimeNetStatsMonitor_Start_mCD2F9E04F02D40361DEAE02A46842F396ABD0904,
+	RuntimeNetStatsMonitor_OnEnable_mEFAE00ABE139F59D353EDC9F239C381ECE4E3B6F,
+	RuntimeNetStatsMonitor_OnDisable_m2F010A726B59FE6A62D50A3108DE5AF19A50ACCB,
+	RuntimeNetStatsMonitor_OnDestroy_m2E794E860920F506CC195346B2845FFC1FB990E8,
+	RuntimeNetStatsMonitor_OnValidate_mB72591A10D99CA6A2EC2A50681CA3520070EBD6D,
+	RuntimeNetStatsMonitor_Setup_m2DC933A1D8A657241D4D95AD367646AC964A98A7,
+	RuntimeNetStatsMonitor_Teardown_m3BA42AC44AC07F8F47CCCE054B9FBB52D7986D32,
+	RuntimeNetStatsMonitor_ApplyConfiguration_mB665A25943E6D3CA00FECA05FBB86CAA1344CEAC,
+	RuntimeNetStatsMonitor_AddCustomValue_mD6167CF3380279B5B27A2763FB712FF010460C46,
+	RuntimeNetStatsMonitor__ctor_m5CCB17D1C3460F3D78AF57097B731A6DEC2E3E26,
+};
+static const int32_t s_InvokerIndices[34] = 
+{
+	16054,
+	10585,
+	10390,
+	8318,
+	10409,
+	8336,
+	10585,
+	10409,
+	8336,
+	10585,
+	10585,
+	10585,
+	10254,
+	8185,
+	10287,
+	8222,
+	10409,
+	8336,
+	10409,
+	8336,
+	10409,
+	8336,
+	10409,
+	8336,
+	10585,
+	10585,
+	10585,
+	10585,
+	10585,
+	10585,
+	10585,
+	10585,
+	4539,
+	10585,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_Multiplayer_Tools_NetStatsMonitor_Component_CodeGenModule;
+const Il2CppCodeGenModule g_Unity_Multiplayer_Tools_NetStatsMonitor_Component_CodeGenModule = 
+{
+	"Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll",
+	34,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

@@ -1,0 +1,180 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m82B469F0B2F2BB892ACA8B4BFE98049663057FD0 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mEC6563C81306D6EC7B8600E52D4F1343DA36FFA2 (void);
+extern void DictionaryEntrySerializer_SerializeFormatted_m33D4AE78041FDE5AD9A110C5C52C82968C4113DA (void);
+extern void DictionaryEntrySerializer__ctor_m852C1C10BCA616B61B42748DC55658FB0C39FC4F (void);
+extern void IDictionarySerializer_GetObjectStream_mA2D7A3FA7A77F615EB965F28EC9C9F501012955F (void);
+extern void IDictionarySerializer__ctor_m0A00FF09C09F33672D2540151671230AFBAFCF47 (void);
+extern void U3CGetObjectStreamU3Ed__0__ctor_m87ABDD84C99F03D5EEE216F4588AA154EA068C08 (void);
+extern void U3CGetObjectStreamU3Ed__0_System_IDisposable_Dispose_m163DCCCAE51DDE2C539C3FE754A9DB93A8CCDD85 (void);
+extern void U3CGetObjectStreamU3Ed__0_MoveNext_m32C0EFA5D8B5BE2C358383A4D45001B63072ADF0 (void);
+extern void U3CGetObjectStreamU3Ed__0_U3CU3Em__Finally1_m2AA3A6F11D7E6258EC27A3AF624BB45E27F4BE87 (void);
+extern void U3CGetObjectStreamU3Ed__0_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mDCC73FB10350A7BE5CC83D4A7B2ABAE4BFB2D3E1 (void);
+extern void U3CGetObjectStreamU3Ed__0_System_Collections_IEnumerator_Reset_mC5BB735164FA9DBCF90CC9C3B44149831807C60C (void);
+extern void U3CGetObjectStreamU3Ed__0_System_Collections_IEnumerator_get_Current_m48B63058184287CCBFCF4EB753B0940B745C376E (void);
+extern void U3CGetObjectStreamU3Ed__0_System_Collections_Generic_IEnumerableU3CSystem_ObjectU3E_GetEnumerator_mD67F48C9376266054762C279BD0B29A9CCD83171 (void);
+extern void U3CGetObjectStreamU3Ed__0_System_Collections_IEnumerable_GetEnumerator_mDB78AC45F52284BFDDB47D29242F695206059B9A (void);
+extern void IEnumerableSerializer_get_Priority_m8EF77A02AE5F811CA3B202912584725D74124E0C (void);
+extern void IEnumerableSerializer_GetObjectStream_m96AFCA86CE9E9E8C319E64F6CAA16CD22FC52808 (void);
+extern void IEnumerableSerializer__ctor_m62F5F0B02EF72929E8C17F9B1E2F0E6E78B8D31D (void);
+extern void KeyValuePairSerializer_get_GenericType_m0FA4D98D0A1FDFBFBF5AF7615FDD3009280A6A1B (void);
+extern void KeyValuePairSerializer_SerializeFormatted_mFE8EA9769D8107821B75CE009BC4782C9C6262FC (void);
+extern void KeyValuePairSerializer__ctor_mA731D231520BC08C41FEF99CFB6298D1DD62118F (void);
+extern void StringSerializer_get_Priority_mB59CF3358F7848CBAB37FEA755B5ACE68DE23D2B (void);
+extern void StringSerializer_SerializeFormatted_mDCF59D95EBDF86224A3DAA9A17EC268AB1445C58 (void);
+extern void StringSerializer__ctor_m15B6F78761B04314DB19375AE7F6176DC3161D52 (void);
+extern void TypeSerialiazer_SerializeFormatted_m0AC0DA1DA32ADF11668D197B5716B548E763DDC6 (void);
+extern void TypeSerialiazer__ctor_m2AFF88A73E4D27B521D4E9C68C4C4C8F2073E838 (void);
+extern void UnityObjectSerializer_SerializeFormatted_m847CCE62E1C3447EA7FAEB1A7055EBF4DA752B05 (void);
+extern void UnityObjectSerializer__ctor_mC3C78E9747D32E6A4C732B548CC17F812896F634 (void);
+extern void Vector2IntSerializer_SerializeFormatted_mEDBEFEB6EC967EF48465A35FCD74783FA444F6A1 (void);
+extern void Vector2IntSerializer__ctor_mB40CB196A16FA8D237FC7E184E1FB6907F3B9941 (void);
+extern void Vector2Serializer_SerializeFormatted_m090B03EB925959FBB4179DF8FAFA6CB169931CB3 (void);
+extern void Vector2Serializer__ctor_m5BA3EBACB393310B239854F797A113B13C4D5554 (void);
+extern void Vector3IntSerializer_SerializeFormatted_m435DF06248AC63044BDEF75AD9F431A2EA22F352 (void);
+extern void Vector3IntSerializer__ctor_mD0AEC6EEAC14C3676D7F518C9643925A5E7AD642 (void);
+extern void Vector3Serializer_SerializeFormatted_m3A6B45F59488520F29783965C939730D8E3F4931 (void);
+extern void Vector3Serializer__ctor_m67AEDD6E68AE3338F84B48DA91AEC5FAFD689961 (void);
+extern void Vector4Serializer_SerializeFormatted_m155D898A819BB9AC3A346F079D73D0451E00FF4B (void);
+extern void Vector4Serializer__ctor_mF1242747FCDC5C861A7E894DBB4A31E6D2CDE751 (void);
+static Il2CppMethodPointer s_methodPointers[41] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m82B469F0B2F2BB892ACA8B4BFE98049663057FD0,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mEC6563C81306D6EC7B8600E52D4F1343DA36FFA2,
+	DictionaryEntrySerializer_SerializeFormatted_m33D4AE78041FDE5AD9A110C5C52C82968C4113DA,
+	DictionaryEntrySerializer__ctor_m852C1C10BCA616B61B42748DC55658FB0C39FC4F,
+	IDictionarySerializer_GetObjectStream_mA2D7A3FA7A77F615EB965F28EC9C9F501012955F,
+	IDictionarySerializer__ctor_m0A00FF09C09F33672D2540151671230AFBAFCF47,
+	U3CGetObjectStreamU3Ed__0__ctor_m87ABDD84C99F03D5EEE216F4588AA154EA068C08,
+	U3CGetObjectStreamU3Ed__0_System_IDisposable_Dispose_m163DCCCAE51DDE2C539C3FE754A9DB93A8CCDD85,
+	U3CGetObjectStreamU3Ed__0_MoveNext_m32C0EFA5D8B5BE2C358383A4D45001B63072ADF0,
+	U3CGetObjectStreamU3Ed__0_U3CU3Em__Finally1_m2AA3A6F11D7E6258EC27A3AF624BB45E27F4BE87,
+	U3CGetObjectStreamU3Ed__0_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mDCC73FB10350A7BE5CC83D4A7B2ABAE4BFB2D3E1,
+	U3CGetObjectStreamU3Ed__0_System_Collections_IEnumerator_Reset_mC5BB735164FA9DBCF90CC9C3B44149831807C60C,
+	U3CGetObjectStreamU3Ed__0_System_Collections_IEnumerator_get_Current_m48B63058184287CCBFCF4EB753B0940B745C376E,
+	U3CGetObjectStreamU3Ed__0_System_Collections_Generic_IEnumerableU3CSystem_ObjectU3E_GetEnumerator_mD67F48C9376266054762C279BD0B29A9CCD83171,
+	U3CGetObjectStreamU3Ed__0_System_Collections_IEnumerable_GetEnumerator_mDB78AC45F52284BFDDB47D29242F695206059B9A,
+	IEnumerableSerializer_get_Priority_m8EF77A02AE5F811CA3B202912584725D74124E0C,
+	IEnumerableSerializer_GetObjectStream_m96AFCA86CE9E9E8C319E64F6CAA16CD22FC52808,
+	IEnumerableSerializer__ctor_m62F5F0B02EF72929E8C17F9B1E2F0E6E78B8D31D,
+	NULL,
+	NULL,
+	NULL,
+	KeyValuePairSerializer_get_GenericType_m0FA4D98D0A1FDFBFBF5AF7615FDD3009280A6A1B,
+	KeyValuePairSerializer_SerializeFormatted_mFE8EA9769D8107821B75CE009BC4782C9C6262FC,
+	KeyValuePairSerializer__ctor_mA731D231520BC08C41FEF99CFB6298D1DD62118F,
+	StringSerializer_get_Priority_mB59CF3358F7848CBAB37FEA755B5ACE68DE23D2B,
+	StringSerializer_SerializeFormatted_mDCF59D95EBDF86224A3DAA9A17EC268AB1445C58,
+	StringSerializer__ctor_m15B6F78761B04314DB19375AE7F6176DC3161D52,
+	TypeSerialiazer_SerializeFormatted_m0AC0DA1DA32ADF11668D197B5716B548E763DDC6,
+	TypeSerialiazer__ctor_m2AFF88A73E4D27B521D4E9C68C4C4C8F2073E838,
+	UnityObjectSerializer_SerializeFormatted_m847CCE62E1C3447EA7FAEB1A7055EBF4DA752B05,
+	UnityObjectSerializer__ctor_mC3C78E9747D32E6A4C732B548CC17F812896F634,
+	Vector2IntSerializer_SerializeFormatted_mEDBEFEB6EC967EF48465A35FCD74783FA444F6A1,
+	Vector2IntSerializer__ctor_mB40CB196A16FA8D237FC7E184E1FB6907F3B9941,
+	Vector2Serializer_SerializeFormatted_m090B03EB925959FBB4179DF8FAFA6CB169931CB3,
+	Vector2Serializer__ctor_m5BA3EBACB393310B239854F797A113B13C4D5554,
+	Vector3IntSerializer_SerializeFormatted_m435DF06248AC63044BDEF75AD9F431A2EA22F352,
+	Vector3IntSerializer__ctor_mD0AEC6EEAC14C3676D7F518C9643925A5E7AD642,
+	Vector3Serializer_SerializeFormatted_m3A6B45F59488520F29783965C939730D8E3F4931,
+	Vector3Serializer__ctor_m67AEDD6E68AE3338F84B48DA91AEC5FAFD689961,
+	Vector4Serializer_SerializeFormatted_m155D898A819BB9AC3A346F079D73D0451E00FF4B,
+	Vector4Serializer__ctor_mF1242747FCDC5C861A7E894DBB4A31E6D2CDE751,
+};
+static const int32_t s_InvokerIndices[41] = 
+{
+	16050,
+	10585,
+	3532,
+	10585,
+	7392,
+	10585,
+	8284,
+	10585,
+	10254,
+	10585,
+	10409,
+	10585,
+	10409,
+	10409,
+	10409,
+	10354,
+	7392,
+	10585,
+	0,
+	0,
+	0,
+	10409,
+	3556,
+	10585,
+	10354,
+	3556,
+	10585,
+	3556,
+	10585,
+	3556,
+	10585,
+	3575,
+	10585,
+	3574,
+	10585,
+	3578,
+	10585,
+	3576,
+	10585,
+	3579,
+	10585,
+};
+static const Il2CppTokenRangePair s_rgctxIndices[1] = 
+{
+	{ 0x02000008, { 0, 6 } },
+};
+extern const uint32_t g_rgctx_T_tF7EE996CD84342CBE1F8600A7FCAF9957674B840;
+extern const uint32_t g_rgctx_IEnumerableSerializer_1_t8356733892687210EE4EA0C4898C1E9D7B63BD43;
+extern const uint32_t g_rgctx_IEnumerableSerializer_1_GetObjectStream_mC958A493881271297B50B1300C30A01772A0A438;
+extern const uint32_t g_rgctx_PolymorphicQcSerializer_1_SerializeRecursive_mBBA6F693CB2D9ACB0DC11B7FB265B4A3929DCB28;
+extern const uint32_t g_rgctx_PolymorphicQcSerializer_1__ctor_mFBBFEC673B07FA38DADE931D2133F8AC3DAEDC76;
+extern const uint32_t g_rgctx_PolymorphicQcSerializer_1_tCF731FED8FF2A6A3ECF68873ABDEFE6660178B50;
+static const Il2CppRGCTXDefinition s_rgctxValues[6] = 
+{
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_T_tF7EE996CD84342CBE1F8600A7FCAF9957674B840 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_IEnumerableSerializer_1_t8356733892687210EE4EA0C4898C1E9D7B63BD43 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_IEnumerableSerializer_1_GetObjectStream_mC958A493881271297B50B1300C30A01772A0A438 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_PolymorphicQcSerializer_1_SerializeRecursive_mBBA6F693CB2D9ACB0DC11B7FB265B4A3929DCB28 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_PolymorphicQcSerializer_1__ctor_mFBBFEC673B07FA38DADE931D2133F8AC3DAEDC76 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_PolymorphicQcSerializer_1_tCF731FED8FF2A6A3ECF68873ABDEFE6660178B50 },
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_QFSW_QC_Serializers_CodeGenModule;
+const Il2CppCodeGenModule g_QFSW_QC_Serializers_CodeGenModule = 
+{
+	"QFSW.QC.Serializers.dll",
+	41,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	1,
+	s_rgctxIndices,
+	6,
+	s_rgctxValues,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
